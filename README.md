@@ -43,7 +43,8 @@
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/ari-yan7/count.svg?"  />
+  <!-- Using a more advanced counter that can filter your own visits -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ari-yan7.ari-yan7&left_color=black&right_color=red" alt="Visitor Count" />
 </div>
 
 ###
