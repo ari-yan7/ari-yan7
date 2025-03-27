@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">My profile VIews !!</h3>
+<h3 align="left">My profile views!!</h3>
 
 ###
 
@@ -74,6 +74,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ari-yan7/ari-yan7/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ari-yan7/ari-yan7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ari-yan7/ari-yan7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ari-yan7/ari-yan7/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
