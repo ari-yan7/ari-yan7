@@ -43,8 +43,8 @@
 ###
 
 <div align="left">
-  <!-- Using a more advanced counter that can filter your own visits -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ari-yan7.ari-yan7&left_color=black&right_color=red" alt="Visitor Count" />
+  <!-- This maintains your original style but uses a better counter -->
+  <img src="https://komarev.com/ghpvc/?username=ari-yan7&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 ###
