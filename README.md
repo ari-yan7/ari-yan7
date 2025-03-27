@@ -77,4 +77,3 @@
 <img src="https://raw.githubusercontent.com/ari-yan7/ari-yan7/output/snake.svg" alt="Snake animation" />
 
 ###
-<script src="https://gist.github.com/onnayokheng/fd2ca1a74d9d427ff7461745afccac88.js"></script>
