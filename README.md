@@ -43,8 +43,7 @@
 ###
 
 <div align="left">
-  <!-- This maintains your original style but uses a better counter -->
-  <img src="https://komarev.com/ghpvc/?username=ari-yan7&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ari-yan7&label=Profile%20views&color=0e75b6&style=flat" alt="ari-yan7" />
 </div>
 
 ###
