@@ -38,12 +38,12 @@
 
 ###
 
-<h3 align="left">My profile views!!</h3>
+<h3 align="left">Unique profile views (excluding my own)</h3>
 
 ###
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=ari-yan7&label=Profile%20views&color=0e75b6&style=flat" alt="ari-yan7" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ari-yan7.ari-yan7&left_color=gray&right_color=blue" alt="Visitor Count" />
 </div>
 
 ###
