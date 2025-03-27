@@ -58,11 +58,9 @@
   <a href="https://www.linkedin.com/in/mubtasimariyan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="#email-display" onclick="document.getElementById('email-display').textContent='ariyanmubtasim@gmail.com'">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-</a>
-
-<div id="email-display" style="display:none;"></div>
+  <a href="#ariyanmubtasim@gmail.com" onclick="this.href='mailto:'+this.href.substring(1);prompt('Copy my email:',this.href.substring(1));return false;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
   <a href="https://discord.com/users/817029638114902037" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
