@@ -18,6 +18,18 @@
 
 <br clear="both">
 
+<h3 align="left">Here is my resume</h3>
+
+###
+
+<p align="left">
+  <a href="https://github.com/ari-yan7/ari-yan7/blob/main/Ariyan_s_CV.pdf" target="_blank" rel="noopener noreferrer">
+    <u><font color="blue">Click here</font></u>
+  </a>
+</p>
+
+###
+
 <h3 align="left">Here are my skills</h3>
 
 ###
