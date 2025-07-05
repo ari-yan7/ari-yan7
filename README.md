@@ -18,18 +18,6 @@
 
 <br clear="both">
 
-<h3 align="left">Here is my resume</h3>
-
-###
-
-<p align="left">
-  <a href="https://github.com/ari-yan7/ari-yan7/blob/main/Ariyan_s_CV.pdf" target="_blank" rel="noopener noreferrer">
-    <u><font color="blue">Click here</font></u>
-  </a>
-</p>
-
-###
-
 <h3 align="left">Here are my skills</h3>
 
 ###
@@ -50,12 +38,12 @@
 
 ###
 
-<h3 align="left">Unique profile views (excluding my own)</h3>
+<h3 align="left">My profile views!!</h3>
 
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ari-yan7.ari-yan7&left_color=gray&right_color=blue" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/ari-yan7/count.svg?"  />
 </div>
 
 ###
@@ -69,6 +57,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/mubtasimariyan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="[📧 Email Me](mailto:ariyanmubtasim@gmail.com)" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/users/817029638114902037" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
